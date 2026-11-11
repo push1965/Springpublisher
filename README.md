@@ -209,4 +209,4 @@ SpringPublisher is provided as a complete free version with all features and upd
 Start creating stunning publications today! Download SpringPublisher now and unleash your creativity.
 
 ---
-**Last updated:** 2026-11-10 22:49:30 UTC
+**Last updated:** 2026-11-11 02:30:50 UTC
